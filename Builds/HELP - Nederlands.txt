@@ -1,0 +1,35 @@
+-- CREDITS --
+De eigenaar van het liedje ben ik niet, maar een vriend van mij, Skatepate.
+Vault Boy is van Bethesda, hoewel ik het plaatje zelf heb getekent.
+Alle andere dingen behoren tot mij! Natuurlijk niet de Game Engine.
+
+-- CONTROLS --
+De controls zijn best simpel, je bereidt een trick voor door W, A, S of D ingedrukt te houden. (Je kan ook de pijltjes toetsen gebruiken!)
+Als je een knop los laat, spring je! Elke knop heeft een andere trick, met de exceptie van W en S.
+
+A: is een heelflip. Je board maakt een flip, waarbij de achterkant van je board het eerste wordt laten zien.
+D: is een kickflip. Je board maakt een flip, waarbij de voorkant van je board het eerste wordt laten zien.
+W en S zijn beide een Ollie, dat is gewoon springen in de lucht.
+
+Je herstart de game met R. Je activeert de ragdoll met Q.
+ESC SLUIT JE SPEL!
+
+Eigenlijk wilde ik een scoreboard maken, maar door de beperkte tijd door mijn stage 
+heb ik dit niet kunnen doen.
+
+GRINDEN
+Je kan ook grinden, je doet dit door een van de opgegeven knoppen in te drukken.
+Je kan op elk geel object grinden. Ze hebben allemaal, met de exceptie van W en S, een verschillende stijl van grinden.
+
+A: Als je dit indrukt terwijl je aan het grinden bent, hou je je board horizontaal op de rails, waarbij je je rug ziet.
+D: Als je dit indrukt terwijl je aan het grinden bent, hou je je board horizontaal op de rails, waarbij je je voorkant ziet.
+W en S: je grind normaal, met je board verticaal met de rail.
+
+SLAMMEN TEGEN DE GROND!
+Je kan ook snel naar de grond to gaan, dit is handig als je hoge snelheiden gaat en je op iets wilt grinden,
+of als je geen tijd heb om het volgende gebouw te halen terwijl je in de lucht bent, en overnieuw wilt springen.
+
+Je slamt met een van de knoppen ingedrukt te houden, vergeet niet dat als je terug op de grond bent en de knop 
+loslaat, je weer springt. Wat er kan voor zorgen dat je vroegtijdig springt, en je het gebouw mist.
+
+Veel plezier!

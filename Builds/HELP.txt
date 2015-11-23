@@ -1,0 +1,37 @@
+-- CREDITS --
+The song is not owned by me, but by my friend Skatepate.
+Vault Boy is from Bethesda, however I've drawn the picture myself.
+Everything else belongs to me! Except for the Game Engine ofcourse.
+
+-- CONTROLS --
+The controls are quite simple, you prepare a trick by either holding W, S, A or D. (Or use the arrow keys!)
+When you rlease the button, you jump! Every button has a trick. With the exception of W and S being the same trick.
+
+A: is a Heelflip, basically your board shows the back side first. This is not so noticable when ingame.
+D: is a Kickflip, just about the same as the heelflip, but it shows the front first.
+W and S is an Ollie, just jumping in the air.
+
+You restart the game with R. And you can ragdoll with Q.
+ESC CLOSES DOWN YOUR GAME!
+
+I was supposed to make a scoreboard, and even put it online. But because I had my internship I didn't
+have any time for this and I had to release it like this, I only had an incredibly short time to work on it. 
+It's still fun to play, though.
+
+GRINDING
+You can also grind, you do this by either holding any of the buttons listed earlier. 
+You can grind on any yellow object. They all, with the exception
+of W and S, have a different style of grinding.
+
+A: When you press this while grinding you hold your board horizontally on the rail, with your back showing.
+D: When you press this while grinding you hold your board horizontally on the rail, with your front showing.
+W and S: just grind normally, with your board vertically aligned with the rail.
+
+SLAMMING
+You can also slam, this is handy when you're going high speeds and want to grind on something, or you 
+have no time to make it to a location, and you have to jump again. 
+
+You slam by holding any of the buttons listed earlier. Don't forget that when you're back on the ground and release a
+button you'll jump again. Which can cause you making your jumps too early.
+
+Have fun!
